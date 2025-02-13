@@ -1,1 +1,1 @@
-So turns out that half the files are too big to upload, so I thought I might as well put everything on a USB and tape it to the back of the robot
+So turns out that half the files are too big to upload, so I thought I might as well put everything on a USB and tape it to the back of the robot. The code is all here but the solidworks files are too large. 
