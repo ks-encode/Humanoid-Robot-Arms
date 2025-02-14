@@ -1,5 +1,5 @@
 So turns out that the CAD is too big to upload so here is a drive link, downlaod it and put it somewhere safe before I remove it from my account:
-https://drive.google.com/drive/folders/1mSpQHzyITcN2FqfBqUYI6n7HmdWliPov?usp=sharing
+https://drive.google.com/drive/folders/1mSpQHzyITcN2FqfBqUYI6n7HmdWliPov?usp=sharing It also has the main report with all the info!
 
 **How to turn robot on without injury**  
 1 - Plug in microncontroller to USB 2.0 or 3.0 on a computer  
