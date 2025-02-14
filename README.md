@@ -1,4 +1,5 @@
-So turns out that half the files are too big to upload, so I thought I might as well put everything on a USB and tape it to the back of the robot. The code is all here but the solidworks files are too large. 
+So turns out that the CAD is too big to upload so here is a drive link, downlaod it and put it somewhere safe before I remove it from my account:
+https://drive.google.com/drive/folders/1mSpQHzyITcN2FqfBqUYI6n7HmdWliPov?usp=sharing
 
 **How to turn robot on without injury**  
 1 - Plug in microncontroller to USB 2.0 or 3.0 on a computer  
@@ -26,7 +27,7 @@ So turns out that half the files are too big to upload, so I thought I might as 
 Can use live feedback to move the model around live, but be very careful as it moves at max speed. Press program virtually first then live control.
 
 **CK**
-I feel like he doesnt know very much about the project, but will also just let you do what you want. So do some research to get a good idea of what is reasonable then present it to him (-:
+I feel like he doesnt know a lot about the project, but is chill to work with and will find you resources. So do some research to get a good idea of what is reasonable then present it to him (-:
 
 **TODO**
 wire other side of left hand to teensy, mirror what is on the right side  
